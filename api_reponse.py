@@ -15,7 +15,7 @@ class image_process:
         "similar_images": True
         })
         headers = {
-        'Api-Key': 'ZdPRBs91IuAJcSYVQWbkD3hjkEJZ2HJ3n4WijqrRPSUgUBLBbK',
+        'Api-Key': 'API KEY HERE',
         'Content-Type': 'application/json'
         }
 
