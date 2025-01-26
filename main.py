@@ -1,7 +1,7 @@
 '''
 
-This is the backend for the project econova
-this back will process images and tell the medicinal benefits of the plants
+
+this code will process images and tell the medicinal benefits of the plants
 
 '''
 
